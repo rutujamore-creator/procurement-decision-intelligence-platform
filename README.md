@@ -1,6 +1,6 @@
 # Procurement Decision Intelligence Platform
 
-A senior-level procurement analytics portfolio project demonstrating how spend, supplier performance, commercial opportunities, sourcing scenarios, risk and savings realization can be converted into executive decisions.
+A senior-level procurement analytics portfolio project demonstrating how spend, supplier performance, commercial opportunities, sourcing scenarios, risk and savings realization can be converted into executive decision support.
 
 > This project uses fully synthetic data. It contains no employer, client, supplier or confidential information.
 
@@ -18,8 +18,7 @@ This project addresses those questions through a decision-intelligence platform 
 
 ## Dashboard Preview
 
-Fix dashboard screenshot path in README
-
+![Opportunity Prioritization](screenshot/opportunity-prioritization.png.png)
 
 ## Business Decisions Supported
 
@@ -48,19 +47,19 @@ Fix dashboard screenshot path in README
 
 ### 1. Executive Overview
 
-screenshot/executive-overview.png.png
+![Executive Overview](screenshot/executive-overview.png.png)
 
 ### 2. Opportunity Prioritization
 
-Fix dashboard screenshot path in README
+![Opportunity Prioritization](screenshot/opportunity-prioritization.png.png)
 
 ### 3. Strategic Sourcing Scenario Simulator
 
-Fix dashboard screenshot path in README
+![Strategic Sourcing Scenario Simulator](screenshot/scenario-simulator.png.png)
 
 ### 5. Supplier Risk and Resilience
 
-Fix dashboard screenshot path in README
+![Supplier Risk and Resilience](screenshot/supplier-risk.png.png)
 
 ## Data Model
 
@@ -138,3 +137,4 @@ theme/          Power BI JSON theme
 documentation/  Requirements, model and governance documentation
 screenshots/    Dashboard images
 case_study/     Interview walkthrough
+```
