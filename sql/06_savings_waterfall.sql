@@ -1,0 +1,2 @@
+-- Savings realization and leakage
+SELECT opportunity_id,category,identified_savings_inr,validated_savings_inr,approved_savings_inr,negotiated_savings_inr,implemented_savings_inr,realized_savings_inr, identified_savings_inr-realized_savings_inr savings_leakage, realized_savings_inr/NULLIF(identified_savings_inr,0) realization_rate FROM savings_pipeline;

@@ -1,0 +1,19 @@
+category,scenario,addressable_spend_inr,expected_savings_pct,expected_savings_inr,top_supplier_share_pct,recommended_supplier_count,risk_level,quality_impact_points,delivery_impact_points,recommended_flag
+IT Hardware,Maximum Savings,3686697552.72,0.095,350236267.51,0.72,2,High,-1.5,-1,No
+IT Hardware,Balanced,3686697552.72,0.068,250695433.58,0.52,3,Medium,0.5,0.3,Yes
+IT Hardware,Maximum Resilience,3686697552.72,0.042,154841297.21,0.36,5,Low,1.8,1.4,No
+Professional Services,Maximum Savings,2063471664.31,0.095,196029808.11,0.72,2,High,-1.5,-1,No
+Professional Services,Balanced,2063471664.31,0.068,140316073.17,0.52,3,Medium,0.5,0.3,Yes
+Professional Services,Maximum Resilience,2063471664.31,0.042,86665809.9,0.36,5,Low,1.8,1.4,No
+Raw Materials,Maximum Savings,2634523900.67,0.095,250279770.56,0.72,2,High,-1.5,-1,No
+Raw Materials,Balanced,2634523900.67,0.068,179147625.25,0.52,3,Medium,0.5,0.3,Yes
+Raw Materials,Maximum Resilience,2634523900.67,0.042,110650003.83,0.36,5,Low,1.8,1.4,No
+Packaging,Maximum Savings,2107620902.65,0.095,200223985.75,0.72,2,High,-1.5,-1,No
+Packaging,Balanced,2107620902.65,0.068,143318221.38,0.52,3,Medium,0.5,0.3,Yes
+Packaging,Maximum Resilience,2107620902.65,0.042,88520077.91,0.36,5,Low,1.8,1.4,No
+Logistics,Maximum Savings,4513381120.46,0.095,428771206.44,0.72,2,High,-1.5,-1,No
+Logistics,Balanced,4513381120.46,0.068,306909916.19,0.52,3,Medium,0.5,0.3,Yes
+Logistics,Maximum Resilience,4513381120.46,0.042,189562007.06,0.36,5,Low,1.8,1.4,No
+Facilities,Maximum Savings,2938422115.95,0.095,279150101.02,0.72,2,High,-1.5,-1,No
+Facilities,Balanced,2938422115.95,0.068,199812703.88,0.52,3,Medium,0.5,0.3,Yes
+Facilities,Maximum Resilience,2938422115.95,0.042,123413728.87,0.36,5,Low,1.8,1.4,No

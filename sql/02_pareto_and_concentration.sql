@@ -1,0 +1,2 @@
+-- Supplier ranking, cumulative spend, and concentration
+WITH s AS (SELECT category, supplier_id, SUM(spend_inr) spend FROM fact_spend WHERE year=2025 GROUP BY category,supplier_id), r AS (SELECT *, SUM(spend) OVER(PARTITION BY category) category_spend, ROW_NUMBER() OVER(PARTITION BY category ORDER BY spend DESC) supplier_rank, SUM(spend) OVER(PARTITION BY category ORDER BY spend DESC ROWS UNBOUNDED PRECEDING) cumulative_spend FROM s) SELECT *, spend/category_spend supplier_share, cumulative_spend/category_spend cumulative_share FROM r;

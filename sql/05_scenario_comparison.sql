@@ -1,0 +1,2 @@
+-- Compare sourcing scenarios
+SELECT category,scenario,expected_savings_inr,top_supplier_share_pct,recommended_supplier_count,risk_level,quality_impact_points,delivery_impact_points FROM sourcing_scenarios ORDER BY category,expected_savings_inr DESC;

@@ -1,0 +1,2 @@
+-- Risk-adjusted opportunity ranking
+SELECT opportunity_id,category,addressable_spend_inr,estimated_savings_inr,confidence_pct,risk_level, estimated_savings_inr*confidence_pct*CASE risk_level WHEN 'Low' THEN 1 WHEN 'Medium' THEN .8 ELSE .55 END risk_adjusted_benefit FROM opportunity_register ORDER BY risk_adjusted_benefit DESC;

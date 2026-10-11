@@ -1,0 +1,7 @@
+opportunity_id,category,supplier_count,identified_spend_inr,addressable_spend_inr,opportunity_type,estimated_savings_inr,confidence_pct,risk_level,owner,stage,target_date
+OPP001,IT Hardware,31,6703086459.49,3936738709.78,Strategic Sourcing,203827424.8,0.78,Medium,Category Manager,Negotiated,2027-02-22
+OPP002,Professional Services,24,3751766662.39,1630359118.47,Supplier Consolidation,168291969.93,0.82,Low,Category Manager,Identified,2027-02-12
+OPP003,Raw Materials,36,4790043455.76,1794130883.86,Strategic Sourcing,174858750.67,0.72,Medium,Category Manager,Validated,2027-05-06
+OPP004,Packaging,34,3832038004.82,2055197153.3,Supplier Consolidation,112949109.41,0.75,High,Category Manager,Identified,2027-05-20
+OPP005,Logistics,39,8206147491.74,4386081920.57,Demand Management,419276062.18,0.79,High,Category Manager,Negotiated,2027-04-10
+OPP006,Facilities,35,5342585665.37,3303421882.42,Strategic Sourcing,220509026.6,0.81,High,Category Manager,Approved,2027-05-19

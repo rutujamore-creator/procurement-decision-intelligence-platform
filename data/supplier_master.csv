@@ -1,0 +1,201 @@
+supplier_id,supplier_name,category,subcategory,country,currency,annual_capacity,quality_score,delivery_score,compliance_score,risk_score,preferred_flag,active_flag
+SUP0001,Global Supplier 001,Raw Materials,Chemicals,United States,USD,4513801.07,92.5,93.4,96.0,31.8,Yes,Yes
+SUP0002,Global Supplier 002,Logistics,Warehousing,China,CNY,2016515.89,98.1,89.6,99.3,50.0,No,Yes
+SUP0003,Global Supplier 003,Packaging,Cartons,Germany,EUR,23627112.21,70.9,67.1,68.9,37.5,Yes,Yes
+SUP0004,Global Supplier 004,Professional Services,Temporary Labor,United Kingdom,GBP,16715854.54,81.9,89.5,90.4,78.1,Yes,Yes
+SUP0005,Global Supplier 005,Facilities,Utilities,Japan,JPY,25028018.56,89.5,88.7,93.0,21.1,No,Yes
+SUP0006,Global Supplier 006,Packaging,Flexible Packaging,Japan,JPY,11320707.59,97.6,100,100,79.4,No,Yes
+SUP0007,Global Supplier 007,Logistics,Warehousing,United Kingdom,GBP,12796145.45,81.6,88.8,81.4,32.3,Yes,Yes
+SUP0008,Global Supplier 008,IT Hardware,Servers,China,CNY,29691853.97,74.9,84.5,85.6,17.8,No,Yes
+SUP0009,Global Supplier 009,Packaging,Cartons,China,CNY,3941516.34,86.8,83.9,94.9,48.0,No,Yes
+SUP0010,Global Supplier 010,Packaging,Flexible Packaging,India,INR,23106102.45,85.0,76.7,78.5,19.4,Yes,Yes
+SUP0011,Global Supplier 011,Facilities,Utilities,India,INR,4169618.63,100,94.1,95.7,75.5,Yes,Yes
+SUP0012,Global Supplier 012,Professional Services,Consulting,United States,USD,7920409.37,96.7,95.2,100,16.8,No,Yes
+SUP0013,Global Supplier 013,Facilities,Security,Singapore,SGD,25369232.2,72.0,77.5,75.5,49.3,No,Yes
+SUP0014,Global Supplier 014,Raw Materials,Chemicals,Japan,JPY,3237604.03,81.0,81.5,82.9,28.2,Yes,Yes
+SUP0015,Global Supplier 015,Logistics,Road Freight,China,CNY,4324420.3,82.4,78.2,87.3,20.8,No,Yes
+SUP0016,Global Supplier 016,Facilities,Utilities,United States,USD,25548815.83,85.3,92.3,84.5,76.4,No,Yes
+SUP0017,Global Supplier 017,Raw Materials,Chemicals,United States,USD,22939825.21,100,96.8,100,69.3,No,Yes
+SUP0018,Global Supplier 018,Logistics,Air Freight,United Kingdom,GBP,8541352.28,100,100,100,52.4,No,Yes
+SUP0019,Global Supplier 019,Raw Materials,Steel,Germany,EUR,11555345.95,75.2,67.0,79.3,62.3,No,Yes
+SUP0020,Global Supplier 020,Logistics,Warehousing,United Kingdom,GBP,1836893.07,71.9,70.7,73.4,62.4,Yes,Yes
+SUP0021,Global Supplier 021,Raw Materials,Steel,China,CNY,16050814.48,71.0,75.3,66.8,82.8,No,Yes
+SUP0022,Global Supplier 022,Raw Materials,Steel,Germany,EUR,25646962.1,82.1,89.6,84.4,46.8,No,Yes
+SUP0023,Global Supplier 023,Logistics,Road Freight,Singapore,SGD,23688913.28,64.3,72.3,74.6,15.3,No,Yes
+SUP0024,Global Supplier 024,Raw Materials,Polymers,Japan,JPY,3728527.68,90.2,100,99.5,27.2,No,Yes
+SUP0025,Global Supplier 025,Facilities,Maintenance,United States,USD,17552798.53,76.5,72.0,72.9,66.6,No,Yes
+SUP0026,Global Supplier 026,Logistics,Air Freight,United Kingdom,GBP,17233570.39,84.8,90.2,86.3,42.1,No,Yes
+SUP0027,Global Supplier 027,Facilities,Security,Germany,EUR,28988657.14,77.2,77.9,78.1,60.0,No,Yes
+SUP0028,Global Supplier 028,Professional Services,Legal,Germany,EUR,11128328.56,92.7,93.4,100,70.8,No,Yes
+SUP0029,Global Supplier 029,Raw Materials,Chemicals,United States,USD,18124225.33,66.5,68.3,78.4,63.7,No,Yes
+SUP0030,Global Supplier 030,Logistics,Air Freight,Singapore,SGD,21108172.72,90.3,90.1,90.7,51.5,No,Yes
+SUP0031,Global Supplier 031,Raw Materials,Chemicals,Singapore,SGD,12315255.99,98.5,94.0,99.8,79.1,Yes,Yes
+SUP0032,Global Supplier 032,Logistics,Air Freight,Germany,EUR,20802471.74,89.3,89.0,94.1,45.7,No,Yes
+SUP0033,Global Supplier 033,Facilities,Utilities,United Kingdom,GBP,11460417.9,67.5,73.7,69.0,84.8,Yes,Yes
+SUP0034,Global Supplier 034,Packaging,Flexible Packaging,Germany,EUR,26624683.91,98.0,99.7,94.0,39.0,No,Yes
+SUP0035,Global Supplier 035,Packaging,Flexible Packaging,India,INR,19431899.38,68.3,73.6,74.0,48.1,No,Yes
+SUP0036,Global Supplier 036,IT Hardware,Networking,Singapore,SGD,2873244.11,69.3,70.3,71.6,78.5,Yes,Yes
+SUP0037,Global Supplier 037,Professional Services,Temporary Labor,Germany,EUR,26359283.79,80.8,87.5,88.4,51.3,No,Yes
+SUP0038,Global Supplier 038,Facilities,Maintenance,United States,USD,9188428.55,96.3,86.4,94.3,73.0,Yes,Yes
+SUP0039,Global Supplier 039,Logistics,Road Freight,Germany,EUR,15002737.92,86.7,89.7,90.6,59.7,No,Yes
+SUP0040,Global Supplier 040,Facilities,Utilities,United Kingdom,GBP,4725266.5,79.1,76.5,84.6,47.3,No,Yes
+SUP0041,Global Supplier 041,Facilities,Utilities,Germany,EUR,10261531.43,83.0,73.4,75.3,80.9,No,Yes
+SUP0042,Global Supplier 042,Professional Services,Temporary Labor,Japan,JPY,3821626.06,77.8,83.7,88.5,74.4,Yes,Yes
+SUP0043,Global Supplier 043,Logistics,Air Freight,China,CNY,7983174.19,79.7,72.5,77.1,69.7,No,Yes
+SUP0044,Global Supplier 044,Logistics,Air Freight,United States,USD,12983598.05,79.4,86.3,79.1,81.4,Yes,Yes
+SUP0045,Global Supplier 045,Raw Materials,Chemicals,Germany,EUR,25089820.78,82.5,88.1,85.8,54.2,No,Yes
+SUP0046,Global Supplier 046,Packaging,Cartons,United States,USD,26391307.32,77.8,77.8,84.5,79.8,No,Yes
+SUP0047,Global Supplier 047,Raw Materials,Steel,China,CNY,8617961.03,89.7,90.3,91.8,40.8,No,Yes
+SUP0048,Global Supplier 048,Facilities,Utilities,United States,USD,27175365.47,87.2,89.0,82.9,60.5,No,Yes
+SUP0049,Global Supplier 049,IT Hardware,Networking,India,INR,19703500.71,86.2,87.8,86.6,70.4,No,Yes
+SUP0050,Global Supplier 050,IT Hardware,Servers,Germany,EUR,27251101.24,86.2,88.0,83.1,30.3,No,Yes
+SUP0051,Global Supplier 051,IT Hardware,Laptops,United Kingdom,GBP,13315174.65,71.6,73.6,71.0,55.9,No,Yes
+SUP0052,Global Supplier 052,Professional Services,Legal,Japan,JPY,22343539.85,75.4,80.7,78.9,21.0,No,Yes
+SUP0053,Global Supplier 053,Packaging,Cartons,United States,USD,12508077.74,86.0,81.8,84.5,29.6,No,Yes
+SUP0054,Global Supplier 054,Raw Materials,Polymers,United Kingdom,GBP,5613334.21,95.1,89.9,88.2,55.0,Yes,Yes
+SUP0055,Global Supplier 055,Logistics,Road Freight,India,INR,24079420.34,89.0,88.8,98.2,15.1,Yes,Yes
+SUP0056,Global Supplier 056,Facilities,Utilities,Japan,JPY,12905274.38,91.1,97.9,100,16.1,Yes,Yes
+SUP0057,Global Supplier 057,IT Hardware,Laptops,Germany,EUR,3996946.4,84.5,84.0,87.8,19.0,No,Yes
+SUP0058,Global Supplier 058,Professional Services,Legal,Germany,EUR,13554083.99,72.6,66.3,65.1,20.2,No,Yes
+SUP0059,Global Supplier 059,Facilities,Utilities,Germany,EUR,26623439.73,78.1,74.1,75.8,21.0,No,Yes
+SUP0060,Global Supplier 060,Raw Materials,Chemicals,Japan,JPY,22579491.86,72.4,68.3,69.5,79.2,No,Yes
+SUP0061,Global Supplier 061,Facilities,Security,China,CNY,12471192.0,79.1,69.0,82.2,26.2,No,Yes
+SUP0062,Global Supplier 062,Raw Materials,Polymers,Japan,JPY,1780561.04,71.6,66.0,71.4,36.2,No,Yes
+SUP0063,Global Supplier 063,IT Hardware,Laptops,Singapore,SGD,25217367.16,86.9,91.5,93.6,40.9,No,Yes
+SUP0064,Global Supplier 064,Logistics,Road Freight,Singapore,SGD,17828758.93,88.0,82.7,95.1,79.4,Yes,Yes
+SUP0065,Global Supplier 065,IT Hardware,Laptops,Japan,JPY,11037901.98,71.3,74.7,72.2,48.1,Yes,Yes
+SUP0066,Global Supplier 066,Logistics,Air Freight,Germany,EUR,5769059.25,91.3,93.6,95.8,57.4,Yes,Yes
+SUP0067,Global Supplier 067,Logistics,Warehousing,India,INR,15675408.82,94.4,87.8,97.3,73.1,Yes,Yes
+SUP0068,Global Supplier 068,Logistics,Warehousing,Japan,JPY,12757421.95,98.0,96.5,100,26.6,Yes,Yes
+SUP0069,Global Supplier 069,Facilities,Maintenance,Singapore,SGD,25645740.44,70.8,71.9,76.1,16.4,No,Yes
+SUP0070,Global Supplier 070,Packaging,Labels,India,INR,14925054.35,72.6,72.6,80.2,17.7,Yes,Yes
+SUP0071,Global Supplier 071,Packaging,Cartons,Germany,EUR,12220845.78,65.9,72.1,68.5,36.5,Yes,Yes
+SUP0072,Global Supplier 072,Packaging,Labels,United Kingdom,GBP,28298544.68,73.8,78.0,79.5,23.0,No,Yes
+SUP0073,Global Supplier 073,Packaging,Labels,China,CNY,9827267.38,88.2,90.9,94.0,23.0,No,Yes
+SUP0074,Global Supplier 074,Packaging,Cartons,United Kingdom,GBP,13874449.22,76.2,72.2,83.8,84.1,No,Yes
+SUP0075,Global Supplier 075,Logistics,Road Freight,United States,USD,15582443.66,73.7,72.8,79.5,27.9,No,Yes
+SUP0076,Global Supplier 076,Professional Services,Consulting,Germany,EUR,13414798.74,75.7,75.3,75.0,77.1,No,Yes
+SUP0077,Global Supplier 077,Logistics,Warehousing,United Kingdom,GBP,2191229.43,93.0,90.3,89.4,31.2,No,Yes
+SUP0078,Global Supplier 078,IT Hardware,Servers,Germany,EUR,19079681.42,73.4,64.3,72.3,78.7,No,Yes
+SUP0079,Global Supplier 079,IT Hardware,Laptops,Japan,JPY,19634334.46,100,100,100,49.1,Yes,Yes
+SUP0080,Global Supplier 080,Raw Materials,Polymers,Singapore,SGD,29666727.94,76.3,71.5,72.2,19.7,No,Yes
+SUP0081,Global Supplier 081,Packaging,Flexible Packaging,China,CNY,15115529.98,99.4,94.8,100,61.3,No,Yes
+SUP0082,Global Supplier 082,Logistics,Air Freight,Germany,EUR,15408470.1,81.4,83.2,87.6,24.3,No,Yes
+SUP0083,Global Supplier 083,Logistics,Warehousing,United States,USD,27259733.54,87.9,87.3,86.3,45.6,No,Yes
+SUP0084,Global Supplier 084,Packaging,Cartons,Singapore,SGD,18428259.1,72.7,80.8,76.9,55.2,No,Yes
+SUP0085,Global Supplier 085,Professional Services,Temporary Labor,United States,USD,16290631.19,80.8,80.9,83.0,80.1,Yes,Yes
+SUP0086,Global Supplier 086,IT Hardware,Servers,United States,USD,27551135.54,80.9,78.0,82.4,68.8,No,Yes
+SUP0087,Global Supplier 087,Professional Services,Legal,China,CNY,19890455.96,80.9,74.2,83.5,46.5,No,Yes
+SUP0088,Global Supplier 088,Packaging,Flexible Packaging,China,CNY,8639613.86,75.4,76.8,77.9,77.3,Yes,Yes
+SUP0089,Global Supplier 089,IT Hardware,Laptops,Japan,JPY,21084052.94,95.0,92.2,98.4,82.1,Yes,Yes
+SUP0090,Global Supplier 090,Professional Services,Consulting,Germany,EUR,16876740.74,69.6,66.6,73.7,46.9,No,Yes
+SUP0091,Global Supplier 091,Facilities,Utilities,India,INR,26197322.41,82.5,84.0,76.3,37.8,No,Yes
+SUP0092,Global Supplier 092,Facilities,Utilities,India,INR,15334651.01,86.2,87.6,94.9,45.6,No,Yes
+SUP0093,Global Supplier 093,Logistics,Air Freight,United Kingdom,GBP,21451414.13,75.8,76.4,67.4,50.1,Yes,Yes
+SUP0094,Global Supplier 094,Professional Services,Consulting,China,CNY,13454107.38,92.3,95.9,92.4,66.8,No,Yes
+SUP0095,Global Supplier 095,IT Hardware,Servers,Singapore,SGD,9481784.49,88.8,92.8,88.6,38.6,No,Yes
+SUP0096,Global Supplier 096,Packaging,Cartons,Japan,JPY,29016924.58,94.9,96.6,100,39.5,No,Yes
+SUP0097,Global Supplier 097,Facilities,Utilities,United Kingdom,GBP,29739204.87,81.9,84.2,93.5,37.0,Yes,Yes
+SUP0098,Global Supplier 098,Logistics,Air Freight,United States,USD,21428990.4,75.8,73.7,76.5,31.5,No,Yes
+SUP0099,Global Supplier 099,Raw Materials,Chemicals,Germany,EUR,1982914.32,91.8,89.6,94.3,33.2,Yes,Yes
+SUP0100,Global Supplier 100,Facilities,Security,China,CNY,18629290.98,72.9,76.2,74.5,26.9,No,Yes
+SUP0101,Global Supplier 101,Packaging,Flexible Packaging,China,CNY,8447345.68,77.9,75.6,71.2,65.2,No,Yes
+SUP0102,Global Supplier 102,Packaging,Labels,Japan,JPY,3947282.04,90.2,95.3,86.9,54.6,Yes,Yes
+SUP0103,Global Supplier 103,Raw Materials,Chemicals,Japan,JPY,20260296.07,85.1,75.3,82.9,81.9,No,Yes
+SUP0104,Global Supplier 104,Facilities,Security,United Kingdom,GBP,1882953.17,85.2,77.1,80.0,15.6,Yes,Yes
+SUP0105,Global Supplier 105,Packaging,Flexible Packaging,China,CNY,7200479.54,68.0,67.4,71.1,76.9,No,Yes
+SUP0106,Global Supplier 106,Packaging,Labels,United Kingdom,GBP,3880626.05,93.3,95.7,92.7,63.8,No,Yes
+SUP0107,Global Supplier 107,Facilities,Maintenance,United Kingdom,GBP,21373878.91,81.7,82.4,82.1,58.2,No,Yes
+SUP0108,Global Supplier 108,Logistics,Air Freight,Germany,EUR,25090862.67,93.9,95.4,95.9,46.0,Yes,Yes
+SUP0109,Global Supplier 109,IT Hardware,Laptops,India,INR,26002076.85,80.5,86.1,89.8,68.2,No,Yes
+SUP0110,Global Supplier 110,Raw Materials,Chemicals,Japan,JPY,8446061.16,79.3,85.8,87.2,53.0,No,Yes
+SUP0111,Global Supplier 111,Packaging,Cartons,India,INR,11687881.98,81.7,76.0,84.8,56.0,No,Yes
+SUP0112,Global Supplier 112,Logistics,Warehousing,Germany,EUR,5999284.49,80.2,76.0,84.0,69.3,No,Yes
+SUP0113,Global Supplier 113,Logistics,Warehousing,Singapore,SGD,12459381.42,84.0,80.9,89.2,41.0,No,Yes
+SUP0114,Global Supplier 114,IT Hardware,Laptops,Germany,EUR,11926051.87,80.9,80.6,75.9,64.6,Yes,Yes
+SUP0115,Global Supplier 115,IT Hardware,Laptops,United Kingdom,GBP,21399457.17,68.3,70.1,78.2,53.5,No,Yes
+SUP0116,Global Supplier 116,Professional Services,Legal,United Kingdom,GBP,16905736.32,88.0,91.3,92.9,23.4,No,Yes
+SUP0117,Global Supplier 117,Facilities,Security,China,CNY,23055779.35,92.3,86.5,94.8,48.5,No,Yes
+SUP0118,Global Supplier 118,Raw Materials,Chemicals,China,CNY,28775425.39,71.9,65.0,74.9,78.8,No,Yes
+SUP0119,Global Supplier 119,Logistics,Air Freight,China,CNY,14371285.57,100,92.4,99.9,23.9,Yes,Yes
+SUP0120,Global Supplier 120,Raw Materials,Steel,China,CNY,15569800.44,80.9,89.5,90.1,66.0,Yes,Yes
+SUP0121,Global Supplier 121,Logistics,Air Freight,United Kingdom,GBP,13281023.68,73.9,80.5,76.6,56.8,Yes,Yes
+SUP0122,Global Supplier 122,Packaging,Cartons,China,CNY,23227795.86,71.8,70.0,75.3,19.9,No,Yes
+SUP0123,Global Supplier 123,Facilities,Security,Germany,EUR,9746587.26,82.2,80.4,86.1,50.3,Yes,Yes
+SUP0124,Global Supplier 124,Facilities,Security,United States,USD,10140724.44,73.6,74.2,70.7,52.8,Yes,Yes
+SUP0125,Global Supplier 125,IT Hardware,Laptops,United States,USD,26703237.68,72.4,72.5,73.0,37.4,No,Yes
+SUP0126,Global Supplier 126,Packaging,Labels,United Kingdom,GBP,24836271.27,97.4,99.7,95.9,28.7,No,Yes
+SUP0127,Global Supplier 127,Professional Services,Legal,China,CNY,3644735.35,75.3,73.9,81.3,62.5,No,Yes
+SUP0128,Global Supplier 128,Packaging,Labels,United Kingdom,GBP,24932478.38,88.5,97.4,92.9,24.3,No,Yes
+SUP0129,Global Supplier 129,Facilities,Utilities,China,CNY,20673171.67,85.9,78.9,84.3,20.6,Yes,Yes
+SUP0130,Global Supplier 130,Professional Services,Temporary Labor,United States,USD,6177179.1,80.3,80.7,76.6,46.3,Yes,Yes
+SUP0131,Global Supplier 131,IT Hardware,Servers,Germany,EUR,29291799.29,89.8,98.3,93.1,44.5,No,Yes
+SUP0132,Global Supplier 132,Raw Materials,Steel,Singapore,SGD,10171039.29,90.0,88.5,100,26.0,No,Yes
+SUP0133,Global Supplier 133,Professional Services,Legal,India,INR,4675295.05,73.5,66.0,77.2,60.0,Yes,Yes
+SUP0134,Global Supplier 134,Logistics,Road Freight,Japan,JPY,18211611.69,74.3,73.8,83.5,47.5,No,Yes
+SUP0135,Global Supplier 135,Logistics,Warehousing,Germany,EUR,12940364.9,76.8,68.9,79.0,24.4,Yes,Yes
+SUP0136,Global Supplier 136,Facilities,Maintenance,Singapore,SGD,25721907.98,93.2,97.4,96.9,35.6,Yes,Yes
+SUP0137,Global Supplier 137,Facilities,Utilities,India,INR,9685978.22,87.4,83.7,82.5,40.9,No,Yes
+SUP0138,Global Supplier 138,Packaging,Flexible Packaging,Singapore,SGD,5778049.52,77.5,83.0,75.6,82.2,Yes,Yes
+SUP0139,Global Supplier 139,Facilities,Utilities,India,INR,4599049.23,69.8,68.4,71.6,16.4,No,Yes
+SUP0140,Global Supplier 140,Logistics,Warehousing,India,INR,13989486.82,67.2,71.1,76.8,47.7,Yes,Yes
+SUP0141,Global Supplier 141,IT Hardware,Servers,China,CNY,25780983.09,86.7,81.5,81.8,35.1,Yes,Yes
+SUP0142,Global Supplier 142,Packaging,Flexible Packaging,United States,USD,13146304.07,75.9,77.5,78.0,45.0,Yes,Yes
+SUP0143,Global Supplier 143,Professional Services,Legal,India,INR,20755114.5,87.3,85.1,86.1,74.7,No,Yes
+SUP0144,Global Supplier 144,Raw Materials,Chemicals,United States,USD,19776712.5,82.5,75.1,86.5,45.9,No,Yes
+SUP0145,Global Supplier 145,Professional Services,Temporary Labor,India,INR,7218173.46,75.1,78.0,79.4,47.2,No,Yes
+SUP0146,Global Supplier 146,Facilities,Security,United Kingdom,GBP,29583224.63,92.5,99.4,94.2,71.4,No,Yes
+SUP0147,Global Supplier 147,Packaging,Cartons,India,INR,22271995.74,91.1,83.1,84.4,62.6,No,Yes
+SUP0148,Global Supplier 148,Logistics,Warehousing,Germany,EUR,16908863.65,92.9,87.3,92.1,74.6,No,Yes
+SUP0149,Global Supplier 149,IT Hardware,Servers,United Kingdom,GBP,3347261.13,99.3,97.5,99.0,79.6,No,Yes
+SUP0150,Global Supplier 150,IT Hardware,Laptops,India,INR,19283981.9,88.8,91.7,89.6,39.7,No,Yes
+SUP0151,Global Supplier 151,Logistics,Road Freight,United States,USD,29305927.4,76.2,78.4,83.5,66.0,Yes,Yes
+SUP0152,Global Supplier 152,Raw Materials,Steel,United States,USD,1382918.8,78.6,81.4,83.4,73.9,No,Yes
+SUP0153,Global Supplier 153,IT Hardware,Networking,United Kingdom,GBP,24771216.64,94.1,91.7,100,64.2,No,Yes
+SUP0154,Global Supplier 154,Facilities,Utilities,United Kingdom,GBP,14101002.49,69.3,74.0,75.5,73.7,Yes,Yes
+SUP0155,Global Supplier 155,Raw Materials,Steel,Germany,EUR,23447579.01,90.0,93.7,89.7,35.5,Yes,Yes
+SUP0156,Global Supplier 156,Professional Services,Consulting,China,CNY,1420025.16,71.8,74.1,70.9,52.9,No,Yes
+SUP0157,Global Supplier 157,Professional Services,Temporary Labor,Singapore,SGD,16321068.76,87.1,88.4,84.6,80.6,No,Yes
+SUP0158,Global Supplier 158,Professional Services,Consulting,India,INR,14104541.42,76.4,79.3,80.4,28.5,Yes,Yes
+SUP0159,Global Supplier 159,Raw Materials,Chemicals,China,CNY,14543377.98,86.9,80.0,82.7,45.5,No,Yes
+SUP0160,Global Supplier 160,Packaging,Labels,United Kingdom,GBP,28964073.67,81.3,83.1,88.3,51.8,No,Yes
+SUP0161,Global Supplier 161,Packaging,Cartons,Germany,EUR,14105792.32,76.9,79.6,79.0,34.3,No,Yes
+SUP0162,Global Supplier 162,Logistics,Warehousing,Germany,EUR,24742188.36,67.9,70.3,76.6,30.5,No,Yes
+SUP0163,Global Supplier 163,Logistics,Air Freight,India,INR,18265312.3,93.7,83.4,87.5,29.4,No,Yes
+SUP0164,Global Supplier 164,Professional Services,Legal,China,CNY,11626739.08,66.1,71.8,69.5,84.3,Yes,Yes
+SUP0165,Global Supplier 165,IT Hardware,Servers,United Kingdom,GBP,28173311.61,79.5,84.0,76.4,82.3,No,Yes
+SUP0166,Global Supplier 166,Facilities,Utilities,China,CNY,14029556.59,82.6,78.7,84.0,44.5,No,Yes
+SUP0167,Global Supplier 167,Professional Services,Temporary Labor,Singapore,SGD,7071810.38,93.8,87.5,90.2,83.5,No,Yes
+SUP0168,Global Supplier 168,Raw Materials,Chemicals,Germany,EUR,4582852.21,72.0,82.1,82.5,69.4,No,Yes
+SUP0169,Global Supplier 169,Raw Materials,Polymers,Germany,EUR,17187658.2,88.6,94.7,99.1,50.5,Yes,Yes
+SUP0170,Global Supplier 170,Logistics,Warehousing,United Kingdom,GBP,27904485.94,87.1,89.0,82.1,45.9,Yes,Yes
+SUP0171,Global Supplier 171,IT Hardware,Laptops,United Kingdom,GBP,22534255.41,87.3,86.6,93.3,55.7,No,Yes
+SUP0172,Global Supplier 172,Packaging,Cartons,Singapore,SGD,25126664.91,83.0,81.5,85.9,67.2,Yes,Yes
+SUP0173,Global Supplier 173,IT Hardware,Servers,Germany,EUR,13458442.01,89.4,87.6,86.0,74.6,No,Yes
+SUP0174,Global Supplier 174,Raw Materials,Chemicals,China,CNY,20802556.38,73.5,79.1,77.8,34.3,No,Yes
+SUP0175,Global Supplier 175,Raw Materials,Chemicals,United States,USD,18010488.49,89.5,89.7,94.4,54.7,Yes,Yes
+SUP0176,Global Supplier 176,Raw Materials,Polymers,Japan,JPY,2427191.49,87.9,88.1,95.5,48.0,Yes,Yes
+SUP0177,Global Supplier 177,Raw Materials,Steel,Singapore,SGD,27210074.03,69.7,76.4,80.6,50.8,No,Yes
+SUP0178,Global Supplier 178,Packaging,Cartons,Singapore,SGD,15637426.74,78.9,73.1,75.0,56.1,No,Yes
+SUP0179,Global Supplier 179,Packaging,Cartons,India,INR,23398330.94,98.8,95.3,90.3,41.4,No,Yes
+SUP0180,Global Supplier 180,Raw Materials,Chemicals,Japan,JPY,17219181.95,99.5,97.2,100,23.9,No,Yes
+SUP0181,Global Supplier 181,Raw Materials,Steel,United States,USD,26817699.17,84.6,79.3,77.8,16.9,Yes,Yes
+SUP0182,Global Supplier 182,Raw Materials,Polymers,Japan,JPY,22083235.83,91.9,83.7,86.6,66.9,No,Yes
+SUP0183,Global Supplier 183,Logistics,Road Freight,United States,USD,21238624.36,74.3,75.0,73.1,50.3,No,Yes
+SUP0184,Global Supplier 184,IT Hardware,Servers,United States,USD,5118296.34,73.4,70.6,75.9,32.3,No,Yes
+SUP0185,Global Supplier 185,Logistics,Air Freight,Japan,JPY,15238669.32,86.3,81.6,84.1,50.9,No,Yes
+SUP0186,Global Supplier 186,IT Hardware,Laptops,United Kingdom,GBP,11332201.57,91.8,85.3,93.5,34.1,No,Yes
+SUP0187,Global Supplier 187,Raw Materials,Chemicals,China,CNY,27244547.89,79.2,85.7,82.8,63.1,Yes,Yes
+SUP0188,Global Supplier 188,Facilities,Maintenance,United States,USD,26936162.51,66.9,73.6,74.0,74.8,Yes,Yes
+SUP0189,Global Supplier 189,Professional Services,Temporary Labor,India,INR,20869946.64,95.9,90.4,91.5,17.5,No,Yes
+SUP0190,Global Supplier 190,Logistics,Warehousing,Japan,JPY,18105789.08,64.1,65.8,72.3,61.3,No,Yes
+SUP0191,Global Supplier 191,Facilities,Maintenance,Singapore,SGD,2631099.99,73.6,70.3,73.6,45.3,No,Yes
+SUP0192,Global Supplier 192,Facilities,Maintenance,India,INR,24233674.89,85.3,78.5,90.1,36.7,No,Yes
+SUP0193,Global Supplier 193,IT Hardware,Networking,United Kingdom,GBP,19786556.06,70.8,74.8,79.2,41.2,Yes,Yes
+SUP0194,Global Supplier 194,Packaging,Flexible Packaging,Japan,JPY,11913244.68,86.2,86.1,87.5,45.3,No,Yes
+SUP0195,Global Supplier 195,Logistics,Road Freight,China,CNY,28688862.09,86.2,87.2,86.5,21.1,No,Yes
+SUP0196,Global Supplier 196,Raw Materials,Steel,United States,USD,9900810.27,89.8,82.9,82.7,66.7,Yes,Yes
+SUP0197,Global Supplier 197,IT Hardware,Laptops,United States,USD,10552629.55,91.4,95.3,94.2,61.9,Yes,Yes
+SUP0198,Global Supplier 198,Facilities,Security,Japan,JPY,21201530.97,91.1,85.8,89.7,58.6,Yes,Yes
+SUP0199,Global Supplier 199,IT Hardware,Servers,United Kingdom,GBP,4836663.07,86.9,84.3,86.6,71.9,No,Yes
+SUP0200,Global Supplier 200,IT Hardware,Servers,United States,USD,21893131.21,87.7,90.7,90.9,20.4,Yes,Yes

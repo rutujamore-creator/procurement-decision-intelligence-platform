@@ -1,0 +1,9 @@
+{
+  "project": "Procurement Decision Intelligence Platform",
+  "synthetic": true,
+  "supplier_records": 200,
+  "transaction_records": 2500,
+  "performance_records": 2400,
+  "opportunities": 6,
+  "scenario_records": 18
+}

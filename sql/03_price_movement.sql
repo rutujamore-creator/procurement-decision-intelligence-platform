@@ -1,0 +1,2 @@
+-- Period-over-period unit-price movement
+WITH m AS (SELECT supplier_id,subcategory,year,AVG(unit_price_local) avg_price FROM fact_spend GROUP BY supplier_id,subcategory,year) SELECT *, avg_price-LAG(avg_price) OVER(PARTITION BY supplier_id,subcategory ORDER BY year) price_change FROM m;
