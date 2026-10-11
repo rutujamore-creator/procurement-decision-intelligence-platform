@@ -18,10 +18,6 @@ This project addresses those questions through a decision-intelligence platform 
 
 ## Dashboard Preview
 
-![Executive Overview](screenshot/executive-overview.png.png)
-
-![Opportunity Prioritization](screenshot/opportunity-prioritization.png.png)
-
 ## Business Decisions Supported
 
 - Prioritize risk-adjusted sourcing opportunities
