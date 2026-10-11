@@ -18,7 +18,8 @@ This project addresses those questions through a decision-intelligence platform 
 
 ## Dashboard Preview
 
-screenshots/executive-overview.png
+![Uploading Designer.png…]()
+
 
 ## Business Decisions Supported
 
