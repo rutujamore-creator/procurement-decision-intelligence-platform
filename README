@@ -1,0 +1,23 @@
+# Procurement Decision Intelligence Platform
+
+**Synthetic senior-level portfolio project. No employer, client, supplier, or confidential information is included.**
+
+## Objective
+Create a decision product that helps procurement leadership prioritize sourcing opportunities, balance savings with supplier risk, monitor value realization, and convert spend analytics into defensible actions.
+
+## What this project demonstrates
+- Multi-dimensional spend cube and star-schema design
+- Advanced SQL opportunity logic and period comparisons
+- Supplier concentration and resilience analysis
+- Price-volume-mix methodology
+- Strategic sourcing scenario simulation
+- Savings waterfall and leakage tracking
+- Executive dashboard and recommendation memo
+- Governance, reconciliation, assumptions, and implementation roadmap
+
+## Key decision questions
+1. Which categories offer the strongest risk-adjusted sourcing opportunities?
+2. Where does supplier concentration create resilience exposure?
+3. Which scenario balances savings, quality, delivery, and concentration?
+4. How much identified value reaches realized savings?
+5. Which opportunities should leadership prioritize next?
