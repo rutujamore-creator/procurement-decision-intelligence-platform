@@ -48,7 +48,7 @@ Fix dashboard screenshot path in README
 
 ### 1. Executive Overview
 
-Fix dashboard screenshot path in README
+screenshot/executive-overview.png.png
 
 ### 2. Opportunity Prioritization
 
