@@ -1,6 +1,4 @@
-# procurement-decision-intelligence-platform
-Senior-level procurement analytics portfolio featuring strategic sourcing scenarios, supplier risk, advanced SQL, Power BI and savings-realization governance.
-
+# Procurement-decision-intelligence-platform
 Procurement Decision Intelligence Platform
 A senior-level procurement analytics portfolio project demonstrating how spend, supplier performance, commercial opportunities, sourcing scenarios, risk and savings realization can be converted into executive decisions.
 
