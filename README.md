@@ -18,7 +18,7 @@ This project addresses those questions through a decision-intelligence platform 
 
 ## Dashboard Preview
 
-![Uploading Designer.png…]()
+Fix dashboard screenshot path in README
 
 
 ## Business Decisions Supported
@@ -48,23 +48,19 @@ This project addresses those questions through a decision-intelligence platform 
 
 ### 1. Executive Overview
 
-![reenshots/executive-overview.png
+Fix dashboard screenshot path in README
 
 ### 2. Opportunity Prioritization
 
-![Opportunity Prioritization](screenshotsg
+Fix dashboard screenshot path in README
 
 ### 3. Strategic Sourcing Scenario Simulator
 
-![Scenario Simulator](screenshots/scenario-simulator.png)
-
-ion
-
-![Savings Realization](screenshotsg
+Fix dashboard screenshot path in README
 
 ### 5. Supplier Risk and Resilience
 
-screenshots/supplier-risk.png
+Fix dashboard screenshot path in README
 
 ## Data Model
 
