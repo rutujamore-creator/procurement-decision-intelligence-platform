@@ -4,10 +4,11 @@ A senior-level procurement analytics portfolio project demonstrating how spend, 
 
 This project uses fully synthetic data. It contains no employer, client, supplier or confidential information.
 
-Executive Summary
+# Executive Summary
+
 Procurement teams often have visibility into historical spend but limited support for deciding:
 
-Which categories should be prioritized for sourcing?
+1) Which categories should be prioritized for sourcing?
 Where does supplier concentration create risk?
 Which award scenario balances savings and resilience?
 How much identified value becomes realized savings?
