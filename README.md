@@ -44,20 +44,12 @@ This project addresses those questions through a decision-intelligence platform 
 ## Power BI Pages
 
 ### 1. Executive Overview
+### 2. Opportunity Prioritization
+### 3. Strategic Sourcing Scenario Simulator
+### 5. Supplier Risk and Resilience
 
 ![Executive Overview](screenshot/executive-overview.png.png)
 
-### 2. Opportunity Prioritization
-
-![Opportunity Prioritization](screenshot/opportunity-prioritization.png.png)
-
-### 3. Strategic Sourcing Scenario Simulator
-
-![Strategic Sourcing Scenario Simulator](screenshot/scenario-simulator.png.png)
-
-### 5. Supplier Risk and Resilience
-
-![Supplier Risk and Resilience](screenshot/supplier-risk.png.png)
 
 ## Data Model
 
