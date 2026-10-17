@@ -41,12 +41,12 @@ This project addresses those questions through a decision-intelligence platform 
 - SQL analysis library
 - Executive decision dashboard
 
-## Power BI Pages
+## Power BI Page
 
 ### 1. Executive Overview
 ### 2. Opportunity Prioritization
 ### 3. Strategic Sourcing Scenario Simulator
-### 5. Supplier Risk and Resilience
+### 4. Supplier Risk and Resilience
 
 ![Executive Overview](screenshot/executive-overview.png.png)
 
